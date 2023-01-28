@@ -6,7 +6,7 @@ Repository contains code for building a Hierarchical Attention Network with BERT
 4.  Naive Bayes - Accuracy obtained: 80.85%
 5.  Perceptron  - Accuracy obtained: 77.10% for 1000 iterations
 
-#Experiment: How removal of varioys attention layers affect the accuracy:
+# Experiment: How removal of varioys attention layers affect the accuracy:
 For 10 iterations and batch size 16 and with Glove Embeddings:
 Original model (Hierarchical Attention Network) accuracy: 0.838000 
 Model accuracy with attention at sentence level removed: 0.825500 

@@ -1,5 +1,5 @@
 # Hierarchical-Attention-Network-with-BERT-Embeddings-for-Sentiment-Analysis-
-Repository contains code for building a Hierarchical Attention Network with BERT Embeddings for Sentiment Analysis on IMDB dataset as described in the paper:
+Repository contains code for developing and training a Hierarchical Attention Network with BERT Embeddings for Sentiment Analysis on IMDB dataset as described in the paper:
 
 Yang, Zichao, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, and EduardbHovy. 2016. Hierarchical attention networks for document classification. Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 1480-1489.(Link: https://aclanthology.org/N16-1174.pdf). 
 
